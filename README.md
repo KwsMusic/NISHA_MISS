@@ -2,15 +2,15 @@
 
 
 <p align="center">
-<br><b>Asʜɪsʜダᴍᴜsɪᴄ
+<br><b> 𝙌𝙐𝙄𝙕𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/MUSICBOT_OWNER"><img src="https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg"></a></p>
+<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Alisha+play+music+on+telegram+voice+chat+feature;Managed+by+Abhimanyu+Singh+Ranawat%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Branded+King%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -42,15 +42,15 @@ bash start
 ### 🧪 Get String Session
 
 </h4>    
-<p><a href="https://t.me/String_sessionkhushi_bot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/BewafaMusicBot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [MrProgrammer](https://github.com/KwsMusic): Developer
-- [GJ516 vc player](https://t.me/MUSICBOT_OWNER): Test Bot
+- [WCGKING](https://github.com/KwsMusic): Developer
+- [Branded](https://t.me/BewafaMusicBot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -58,6 +58,6 @@ bash start
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Support & Developer 🎑
-<a href="https://t.me/MUSICBOT_OWNER"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Zidd_Bot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="[https://t.me/QuizvcBot]"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MUSICBOT_OWNER"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
