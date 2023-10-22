@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<br><b>༄𝐿 2 𝙍.🜲𝐊𝐈𝐍𝐆❦︎ 𝆺𝅥⃝
+<br><b>Asʜɪsʜダᴍᴜsɪᴄ
 </b><br>
 </p>
 <p align="center"><a href="https://t.me/MUSICBOT_OWNER"><img src="https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg"></a></p>
@@ -49,7 +49,7 @@ bash start
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [MrProgrammer](https://github.com/WCGKING): Developer
+- [MrProgrammer](https://github.com/KwsMusic): Developer
 - [GJ516 vc player](https://t.me/MUSICBOT_OWNER): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
