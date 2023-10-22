@@ -1,7 +1,7 @@
 {
-    "name": "KHUSHI OP",
+    "name": "Asʜɪsʜダᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/ebf34649780915d5951fe.jpg",
+    "logo": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -65,7 +65,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6277238293",
         "required": true
       },
       "STRING_SESSION": {
@@ -75,12 +75,12 @@
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,17 +95,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001822336951",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "https://t.me/MUSICBOT_OWNER",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "",
+        "value": "https://t.me/Zidd_Bot",
         "required": false
       }
     },
