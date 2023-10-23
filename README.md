@@ -5,10 +5,10 @@
 <br><b> 𝙌𝙐𝙄𝙕𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
+<p align="center"><a href="https://t.me/MUSICBOT_OWNER"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
 
 
-<a href="https://www.youtube.com/watch?v=eadme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Breaeadme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Breadme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Branddme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+༄𝐿 2 𝙍.+🜲𝗢𝙒𝗡𝐄𝐑%E2%9D%A4%EF%B8%8FdQw4w9WgXcQanded+King%E2%9D%A4%EF%B8%8FdQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=eadme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Breaeadme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Breadme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Branddme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+༄𝐿2𝙍+🜲𝗢𝙒𝗡𝐄𝐑%E2%9D%A4%EF%B8%8FdQw4w9WgXcQanded+King%E2%9D%A4%EF%B8%8FdQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Branded+King%E2%9D%A4%EF%B8%8F"> 
 
