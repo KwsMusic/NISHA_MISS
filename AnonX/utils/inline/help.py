@@ -72,7 +72,7 @@ def help_pannel(_, START: Union[bool, int] = None):
                     callback_data="help_callback hb10",
                 ),
                 InlineKeyboardButton(
-                    text="sᴛᴀʀᴛ",
+                    text="🍃sᴛᴀʀᴛ🍃",
                     callback_data="help_callback hb11",
                 ),
                 InlineKeyboardButton(
@@ -98,7 +98,7 @@ def help_back_markup(_):
                     text=_["CLOSE_BUTTON"], callback_data=f"close"
                 ),
                 InlineKeyboardButton(
-                    text="• sᴜᴩᴩᴏʀᴛ •", url=f"{SUPPORT_GROUP}"
+                    text="• 🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭ •", url=f"{SUPPORT_GROUP}"
                 ),
             ]
         ]
