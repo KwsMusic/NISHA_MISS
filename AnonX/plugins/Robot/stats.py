@@ -181,7 +181,7 @@ async def top_users_ten(client, CallbackQuery: CallbackQuery, _):
                 details = stats.get(items)
                 title = (details["title"][:35]).title()
                 if items == "telegram":
-                    msg += f"🔗[Telegram Files and Audios](https://t.me/telegram) ** played {count} times**\n\n"
+                    msg += f"🔗[Telegram Files and Audios](https://t.me/BWF_MUSIC1) ** played {count} times**\n\n"
                 else:
                     msg += f"🔗 [{title}](https://www.youtube.com/watch?v={items}) ** played {count} times**\n\n"
 
